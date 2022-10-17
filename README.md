@@ -1,7 +1,7 @@
 ![imagem de capa](https://github.com/wendelsilva/nlw-esports/blob/main/capa-nlw-esports.png?raw=true)
 # nlw-esports
 
-Evento da rocketseat onde durante 1 semana desenvolvemos um design system simples do figma ao react.
+Evento da rocketseat onde durante 1 semana desenvolvemos uma aplicação fullstack web e mobile onde você consegue encontrar jogadores que jogam os mesmos jogos que você atráves de anúncios que você publica ou busca na plataforma.
 
 ## Tecnologias Utilizadas
 ### FrontEnd
